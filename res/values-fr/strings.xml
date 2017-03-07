@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Xacida Online</string>
+    <string name="accueil">Cheikh Ahmadou Bamba Khadimou Rassoul</string>
+    <string name="no_connection">Merci de vérifier votre connexion internet</string>
+    <string name="searchxacida">"Rechercher un Xacida.."</string>
+    <string name="app_about">A propos de Xacida En Ligne</string>
+    <string name="str_exit">Fermer</string>
+    <string name="str_ok">Oui</string>
+    <string name="str_yes">Oui</string>
+    <string name="app_exit_message">Voulez vous fermer cette application?</string>
+    <string name="str_no">Non</string>
+    <string name="obj1">NOTRE OBJECTIF: Oeuvrer pour Cheikh Ahmadou Bamba Khadimou Rassoul.</string>
+    <string name="obj2">Nous supplions à toute personne utilisant cette application mobile de prier pour SERIGNE SALIOU MBACKE.</string>
+    <string name="bienvenu">BIENVENU!</string>
+    <string name="dieredieuf">DIEUREDIEUF!</string>
+    <string name="lien">www.tab28.com</string>
+    <string name="openxacida">Ouvrir Xacida</string>
+    <string name="closexacida">Fermer Xacida</string>
+    <string name="xacida">Xacida</string>
+    <string name="play">Jouer</string>
+    <string name="wait">L\'ouverture du Xacida peut prendre quelques petites minnutes merci cliquer sur le bouton Drouss et de patienter Muride. Akassa fassalé!!!</string>
+    <string name="title_activity_player_drouss">DROUSS Lecteur</string>
+    <string name="action_settings">Paramètre</string>
+    <string name="hello_world">Dieuredieufety Borom Touba</string>
+    <string name="udx">Xacida en téléchargement\u2026</string>
+    <string name="usd">Mise à jour du téléchargement en cours</string>
+    <string name="dl">Télécharger Audio</string>
+    <string name="dr">Drouss</string>
+
+</resources>

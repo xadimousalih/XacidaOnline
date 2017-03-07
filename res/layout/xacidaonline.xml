@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".XacidaOnlineActivity" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text=""
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+    
+    <EditText
+        android:id="@+id/inputSearch"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:layout_marginTop="48dp"
+        android:hint="@string/searchxacida"
+        android:inputType="textVisiblePassword" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="55dp"
+        android:cacheColorHint="#00000000" />
+
+    <include layout="@layout/footer_layout" />
+
+<!--     <Spinner -->
+<!--         android:id="@+id/spinner" -->
+<!--         android:layout_width="fill_parent" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_alignBottom="@+id/inputSearch" -->
+<!--         android:layout_alignLeft="@+id/textView" -->
+<!--         android:layout_alignTop="@+id/inputSearch"  -->
+<!--         android:entries="@array/lang_arrays" -->
+<!--         android:prompt="@string/country_prompt" /> -->
+
+</RelativeLayout>
